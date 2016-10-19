@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavigationTabStrip</string>
+    <string name="mainfragment">MainFragment</string>
+</resources>
